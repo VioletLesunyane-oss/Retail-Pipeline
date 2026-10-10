@@ -1,6 +1,6 @@
 
 -- =============================================
--- Create a staging database
+-- Create the retail_stg database 
 -- =============================================
 IF NOT EXISTS (
     SELECT 1
